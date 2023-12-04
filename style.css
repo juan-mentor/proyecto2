@@ -21,8 +21,8 @@ body {
     margin: 0;
     background-color: var(--Dark-cyan);
     background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
-    background-repeat: no-repeat;
-    background-position: right 40vw bottom 50vh, left 40vw top 40vh;
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
 }
     
 h2 {
@@ -110,6 +110,10 @@ h2 {
    font-weight: 400;
    columns: var(--Dark-grayish-blue);
 }
+   
+   
+   
+    
     
     
     
